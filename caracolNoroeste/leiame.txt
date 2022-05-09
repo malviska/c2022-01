@@ -1,0 +1,7 @@
+                        Trabalho Prático "Caracol Noroeste"
+
+1. Foram utilizadas bibliotecas padrão do C: stdio.h e math.h;
+2. O sistema operacional usado foi o Ubuntu 21.10, mas o programa pode ser compilado em qualquer
+distro que tenha o compilador gcc, no windows utilizando WSL.
+3. Para compilar utilize o comando: gcc caracolno.c -o "diretório/nome do programa sem aspas" -lm
+o comando final "-lm" é necessário para compilar a biblioteca math.h
